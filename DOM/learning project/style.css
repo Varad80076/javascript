@@ -1,0 +1,17 @@
+body{
+    background-color: #f3a6b5;
+}
+h1{
+    color: blue;
+    background-color: rgb(238, 255, 55);
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: red;
+}
+button{
+    background-color: rgb(21, 74, 233);
+    color: rgb(244, 248, 244);
+}
